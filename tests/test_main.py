@@ -11,7 +11,7 @@ def test_subtract_function():
     assert subtract(0, 0) == 0
     assert subtract(5, 5) == 0
 
-#Added by Cutie
+#Added by Cutie S
 def test_multiply_function():
     assert multiply(2, 3) == 6
     assert multiply(0, 0) == 0
